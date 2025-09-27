@@ -1,0 +1,4 @@
+# Export log
+# DXF export for Drawings: unsupported
+# The following files are present in Fusion but were not downloaded automatically:
+deksellasercut Drawing
